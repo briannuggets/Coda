@@ -1,7 +1,7 @@
 # Coda - Music Data Aggregation Solution
 Coda is an architectural solution developed as a capstone project by a team of 6 members. It aims to aggregate user data from various music streaming services, including Spotify, Apple Music, Amazon Music, and YouTube Music, into a centralized repository. The purpose of Coda is to simplify the sharing of music data for users who have multiple platforms or who wish to switch platforms while retaining their music preferences.
 
-# Project Details
+## Project Details
 * **Team Size**: 6 members
 * **Solution Platform**: IBM CogArch
 * **Development Framework**: Scrum
